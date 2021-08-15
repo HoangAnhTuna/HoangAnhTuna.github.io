@@ -1,2 +1,4 @@
 # HoangAnhTuna.github.io
-hello, its me the one who created this shit.
+Hello, its me the one who created this shit.
+This is... a shit.
+That's it, bye.
