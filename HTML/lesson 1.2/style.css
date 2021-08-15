@@ -1,0 +1,24 @@
+h1 {
+  color: rgb(145, 160, 245);
+}
+h2 {
+  color: rgb(117, 79, 255);
+  margin-left: 50px;
+  text-align: left;
+}
+.lmao {
+  background: linear-gradient(
+    to right,
+    #0f0c29,
+    #302b63,
+    #24243e
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  width: 400px;
+  height: 450px;
+  display: inline-block;
+  border-radius: 3%;
+  margin: center;
+  padding: 20px;
+  box-shadow: 10px 30px 200px rgb(114, 38, 255);
+}
+body{font-family: Georgia, 'Times New Roman', Times, serif; font-size: 15px;}

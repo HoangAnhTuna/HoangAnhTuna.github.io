@@ -1,0 +1,50 @@
+div{
+    border: 1px solid black;
+    display: inline-block;
+}
+.container{
+    width: 80%;
+    background-color: gray;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.b1{
+    background-color: red;
+    border-radius: 50%;
+    height:150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b2{
+    background-color: yellow;
+    border-radius: 50%;
+    height:150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b3{
+    background-color: green;
+    border-radius: 50%;
+    height:150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+}
+.b{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
