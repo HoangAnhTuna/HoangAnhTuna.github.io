@@ -1,0 +1,14 @@
+div{
+    border-color: red;
+}
+.container{
+    background-color: gray;
+    padding: 10px;
+    display:inline-block
+}
+.inner{
+    background-color: red;
+    height: 300px;
+    width: 200px;
+    display: inline-block;
+}
