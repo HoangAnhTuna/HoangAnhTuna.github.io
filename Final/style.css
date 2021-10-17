@@ -1308,7 +1308,6 @@ section {
     font-size: 11px;
     vertical-align: middle;
     margin-right: 25px;
-    content: "";
 }
 
 .widget ul.list li a:hover {
