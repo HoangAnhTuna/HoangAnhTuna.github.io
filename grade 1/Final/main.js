@@ -1,3 +1,15 @@
+fetch("https://free-epic-games.p.rapidapi.com/free", {
+	"method": "GET",
+	"headers": {
+		"x-rapidapi-host": "free-epic-games.p.rapidapi.com",
+		"x-rapidapi-key": "71e6319efamshb682c7603a32a61p1437e5jsncb4723c5bb21"
+	}
+})
+.then(response => response.json())
+.then(data => console.log(data))
+.catch(err => {
+	console.error(err);
+});
 $(document).ready(function() {
     "use strict";
 

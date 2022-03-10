@@ -53,7 +53,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #fff;
   background-color: #fff;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: transparent;
@@ -202,13 +202,7 @@ sub {
 sup {
   top: -0.5em;
 }
-a {
-  color: #ad1deb;
-  text-decoration: underline;
-}
-a:hover {
-  color: #0a58ca;
-}
+
 a:not([href]):not([class]),
 a:not([href]):not([class]):hover {
   color: inherit;
